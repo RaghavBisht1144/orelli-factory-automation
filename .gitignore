@@ -1,0 +1,14 @@
+.env
+.env.*
+*.pem
+*.key
+*.crt
+credentials/
+secrets/
+private/
+raw/
+backups/
+database-dumps/
+*.log
+.DS_Store
+Thumbs.db
